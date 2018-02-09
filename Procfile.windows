@@ -1,1 +1,1 @@
-web: python gogo.py
+worker: python gogo.py
